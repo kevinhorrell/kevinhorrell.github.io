@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
     "section": "",
-    "text": "‘Kevin Horrell’"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "It appears you don’t have a PDF plugin for this browser. No biggie… you can click here to download the PDF file."
   },
   {
     "objectID": "index.html",
@@ -21,10 +14,17 @@
     "text": "Hello, I’m Kevin Horrell! I’m studying water resources and data science at Colorado State University. I love learning about water, where we get it, and how to keep those sources clean and thriving. Besides that, I run, play volleyball when I can, and bake sourdough bread. Check out my website to learn more about me!"
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "It appears you don’t have a PDF plugin for this browser. No biggie… you can click here to download the PDF file."
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Shiny Application\n\n\nRemote Sensing and Machine Learning\n\n\nEnvironmental Science Applications\n\nIn this lab I tracked COVID 19 stats for Colorado. Lab 01\nIn this lab I did xyz Lab 02\nIn this lab I did yes Lab 03\nIn this project I followed Iowa Lab 04\nHere we looked at rasters Lab 05\nTime series data Lab 06"
   }
 ]
