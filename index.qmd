@@ -1,6 +1,6 @@
 ---
 title: "Kevin Horrell"
-image: media/headshot4.jpg
+image: images/headshot4.jpg
 toc: false
 about: 
   template: jolla
