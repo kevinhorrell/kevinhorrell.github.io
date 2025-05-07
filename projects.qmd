@@ -1,0 +1,19 @@
+---
+title: "Projects"
+format: html
+---
+
+# Projects
+!['Kevin Horrell'](images/headshot4.jpg)
+
+## Smaller Projects
+```{r}
+#| echo: false
+#| out.width: "60%"
+
+knitr::include_graphics('images/headshot3.heic')
+```
+
+### Lab 1
+
+#### Lab 2
