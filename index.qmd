@@ -1,11 +1,16 @@
 ---
-title: "kevinhorrell.github.io"
+title: "Kevin Horrell"
+image: media/headshot4.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 20em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/kevin-horrell-7644bb93/
+    - text: Email
+      href: mailto:kevin.horrell@colostate.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hello, I'm Kevin Horrell! I'm studying water resources and data science at Colorado State University. I love learning about water, where we get it, and how to keep those sources clean and thriving. Besides that, I run, play volleyball when I can, and bake sourdough bread. Check out my website to learn more about me!
