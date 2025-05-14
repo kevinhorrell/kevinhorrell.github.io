@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "kevinhorrell.github.io"
+  title: "Kevin Horrell"
   navbar:
     left:
       - href: index.qmd
@@ -13,11 +13,11 @@ website:
 
 format:
   html:
-    theme: 
-      - pulse
-      - brand
+    theme:
+      light: pulse
+      dark: superhero
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
-

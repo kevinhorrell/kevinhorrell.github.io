@@ -1,16 +1,36 @@
 ---
 title: "Kevin Horrell"
-image: images/headshot4.jpg
 toc: false
 about: 
-  template: jolla
-  image-shape: round
-  image-width: 20em
+  template: trestles
+  image: images/headshot4.jpg
   links: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/kevin-horrell-7644bb93/
+    - text: GitHub
+      href: https://kevinhorrell.github.io/
     - text: Email
       href: mailto:kevin.horrell@colostate.edu
 ---
 
-Hello, I'm Kevin Horrell! I'm a professional master's student studying water resource management and data science at Colorado State University. I love learning about water, where it comes from, it's chemical and physical properties, and how to maintain it in the urban and natural environments. Aside from my career and educational interests, I try to enjoy all Colorado has to offer. I run, hike, camp, ski, play volleyball, paddleboard and bake sourdough bread. Check out my website to learn more about me!
+Hello, I'm Kevin Horrell! I'm a professional master's student studying water resource management and data science at Colorado State University. I love learning about water, where it comes from, it's chemical and physical properties, how it interacts with the environment, and how to sustain it in the urban and natural environments. Aside from my career and educational interests, I try to enjoy all Colorado has to offer. I run, hike, camp, ski, play volleyball, paddleboard and bake sourdough bread. Check out my website to learn more about me!
+
+## Education
+
+#### Colorado State University \| Fort Collins, CO
+
+PSM in Ecosystems Science and Sustainability \| August 2024 - December 2025
+
+#### Colorado State University \| Fort Collins, CO
+
+B.S. in Chemistry \| August 2005 - May 2010
+
+B.S. in Natural Science \| August 2005 - May 2010 Concentration in Chemistry Education
+
+## Experience
+
+Clear Comfort Water \| Laboratory Manager \| April 2023 - August 2024
+
+Silver Bullet Water Treatment \| Laboratory Manager \| January 2020 - March 2023
+
+Cherry Creek High School \| Chemistry Teacher, Robotics Coach, Cross Country Coach \| August 2014 - July 2019
