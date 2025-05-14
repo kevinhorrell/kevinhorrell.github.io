@@ -13,4 +13,4 @@ about:
       href: mailto:kevin.horrell@colostate.edu
 ---
 
-Hello, I'm Kevin Horrell! I'm studying water resources and data science at Colorado State University. I love learning about water, where we get it, and how to keep those sources clean and thriving. Besides that, I run, play volleyball when I can, and bake sourdough bread. Check out my website to learn more about me!
+Hello, I'm Kevin Horrell! I'm a professional master's student studying water resource management and data science at Colorado State University. I love learning about water, where it comes from, it's chemical and physical properties, and how to maintain it in the urban and natural environments. Aside from my career and educational interests, I try to enjoy all Colorado has to offer. I run, hike, camp, ski, play volleyball, paddleboard and bake sourdough bread. Check out my website to learn more about me!
