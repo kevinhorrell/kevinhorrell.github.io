@@ -8,7 +8,7 @@ about:
     - text: LinkedIn
       href: https://www.linkedin.com/in/kevin-horrell-7644bb93/
     - text: GitHub
-      href: https://kevinhorrell.github.io/
+      href: https://github.com/kevinhorrell
     - text: Email
       href: mailto:kevin.horrell@colostate.edu
 ---
