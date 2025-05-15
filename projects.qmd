@@ -3,10 +3,6 @@ title: "Projects"
 format: html
 ---
 
-# Shiny Application
-
-# Remote Sensing and Machine Learning
-
 # Environmental Science Applications
 
 1.  In this lab I tracked COVID 19 stats for Colorado. [Lab 01](https://kevinhorrell.github.io/csu_523c/lab-01.html)
@@ -15,3 +11,11 @@ format: html
 4.  In this project I followed Iowa [Lab 04](https://kevinhorrell.github.io/csu_523c/lab-04.html)
 5.  Here we looked at rasters [Lab 05](https://kevinhorrell.github.io/csu_523c/lab-05.html)
 6.  Time series data [Lab 06](https://kevinhorrell.github.io/csu_523c/lab-03.html)
+
+
+# Shiny Application
+*More to Come*
+
+
+# Remote Sensing and Machine Learning
+*More to Come*
