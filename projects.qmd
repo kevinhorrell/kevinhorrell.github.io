@@ -6,11 +6,11 @@ format: html
 # Environmental Science Applications
 
 1.  In this lab I tracked COVID 19 stats for Colorado. [Lab 01](https://kevinhorrell.github.io/csu_523c/lab-01.html)
-2.  In this lab I did xyz [Lab 02](https://kevinhorrell.github.io/csu_523c/lab-02.html)
-3.  In this lab I did yes [Lab 03](https://kevinhorrell.github.io/csu_523c/lab-03.html)
-4.  In this project I followed Iowa [Lab 04](https://kevinhorrell.github.io/csu_523c/lab-04.html)
-5.  Here we looked at rasters [Lab 05](https://kevinhorrell.github.io/csu_523c/lab-05.html)
-6.  Time series data [Lab 06](https://kevinhorrell.github.io/csu_523c/lab-03.html)
+2.  In this lab I worked with world projections and geometries to make measurements and analyze cities in the US. [Lab 02](https://kevinhorrell.github.io/csu_523c/lab-02.html)
+3.  In this lab I worked with tesselations and the National Dam Inventory to determin at-risk dams. [Lab 03](https://kevinhorrell.github.io/csu_523c/lab-03.html)
+4.  In this project I used remote sensing images to track flooding in Palo, Iowa. [Lab 04](https://kevinhorrell.github.io/csu_523c/lab-04.html)
+5.  In this lab I used the CAMELS dataset and machine learning to predict streamflow. [Lab 05](https://kevinhorrell.github.io/csu_523c/lab-05.html)
+6.  In this lab I worked with timeseries streamflow data from the Poudre River to model and predict future streamflow. [Lab 06](https://kevinhorrell.github.io/csu_523c/lab-03.html)
 
 
 # Shiny Application
@@ -19,3 +19,6 @@ format: html
 
 # Remote Sensing and Machine Learning
 *More to Come*
+
+# Watershed Analysis
+*An overview look at the St. Louis Creek Watershed near Fraser, Colorado.*
